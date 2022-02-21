@@ -6,28 +6,29 @@ permalink: /about/
 
 Hi, my name is Sai Vanga . I'm 10 years old. I go to Louisa May Alcott Elementary. I have an younger sister named Lasya Vanga. She is 9 years old. Don't forget to visit my sister's website [Lasya.net](https://Lasya.Net)
 
+* Me!
+
+<img src="/assets/images/sai-vanga.jpeg" width="300" alt="Sai Vanga">
 
 My favorites:
 
+
 * Color - Blue
 
-![Blue](/assets/images/blue.jpg)
+<img src="/assets/images/blue.jpg" width="100" alt="Blue">
 
 * Food - Cheese Pizza
 
-![Cheese Pizza](/assets/images/pizza.png)
+<img src="/assets/images/pizza.png" width="300" alt="Cheese Pizza">
 
 
 * Desert - Choco Lava Cake
 
-![Choco Lava Cake](/assets/images/choco-lava-cake.jpg)
+<img src="/assets/images/choco-lava-cake.jpg" width="300" alt="Choco Lava Cake">
 
 
 * Movies - Transformers 1-5
 
-![Optimus Prime](/assets/images/optimus-prime.jpg)
+<img src="/assets/images/optimus-prime.jpg" width="300" alt="Opitmus Prime">
 
 
-* Me!
-
-![Sai Vanga](/assets/images/sai-vanga.jpeg)
