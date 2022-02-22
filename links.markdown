@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Links
+permalink: /links/
 ---
 
 These are some of the websites of my family members and other useful websites:
