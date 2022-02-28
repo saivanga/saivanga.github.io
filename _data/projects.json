@@ -46,5 +46,117 @@
 				"name": "Github Repository"
 			}
 		]
+	},
+	{
+		"date": "07/30/2021",
+		"title": "Online Notepad",
+		"description": "You type on the whole page and save the text you typed for later.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/online-notepad/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/online-notepad",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/29/2021",
+		"title": "Color Generator",
+		"description": "You change the numbers of red, green and blue to create a color using those numbers",
+		"links": [
+			{
+				"link": "https://samasala.github.io/color-generator/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/color-generator",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/28/2021",
+		"title": "Random Color Generator",
+		"description": "You press a button to generate a random color and see a table of red, blue and green colors used to make that random color",
+		"links": [
+			{
+				"link": "https://samasala.github.io/random-color-generator/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/random-color-generator/",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/27/2021",
+		"title": "Decimal to Others",
+		"description": " You give a number and it returns a table showing that number in binary, octal, hex and hexa decimal",
+		"links": [
+			{
+				"link": "https://samasala.github.io/decimal-to-others/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/decimal-to-others",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/26/2021",
+		"title": "Tables with range",
+		"description": "Multiplies a specific number by when you start to when you end your range and gives a table of the result.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/tables-with-range/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/tables-with-range",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/25/2021",
+		"title": "Tables",
+		"description": "Multiplies a specific number by 1, 2, 3 and all numbers until 10 and gives a table of the result.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/tables/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/tables",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "07/14/2021",
+		"title": "Generate Numbers",
+		"description": "Adds 2 numbers for a specific number of times and shows a table for the result.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/generate-numbers/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/generate-numbers",
+				"name": "Github Repository"
+			}
+		]
 	}
 ]
