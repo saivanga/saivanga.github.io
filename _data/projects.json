@@ -1,0 +1,50 @@
+[
+	{
+		"date": "08/09/2021",
+		"title": "Contacts",
+		"description": "Add contacts of important people",
+		"links": [
+			{
+				"link": "https://samasala.github.io/contacts/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/contacts",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "08/03/2021",
+		"title": "Color Generator With Local Cache",
+		"description": "You change the numbers of red green and blue to create a color using those numbers with local cache.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/color-generator-with-local-cache/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/color-generator-with-local-cache",
+				"name": "Github Repository"
+			}
+		]
+	},
+	{
+		"date": "08/02/2021:",
+		"title": "ToDos",
+		"description": "You can add todos and save them for later and you can delete when you're finished.",
+		"links": [
+			{
+				"link": "https://samasala.github.io/todos/",
+				"name": "Demo"
+			},
+
+			{
+				"link": "https://github.com/SaMaSaLa/todos",
+				"name": "Github Repository"
+			}
+		]
+	}
+]
