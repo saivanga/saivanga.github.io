@@ -51,4 +51,21 @@ x86_64
 
 - To find all folders with specific name in current directory use: `find . -name "<folder-name>" -type d`
 
-- To find all files with specific name in current directory use: `find . -name "<file-name>" -type f`
+Input:
+`find . -name "node_modules" -type d | wc -l`
+
+Output:
+
+```
+11
+```
+
+- To find all files with specific name in current directory use: `find . -name "<file-name>" -type f | wc -l`
+
+Input: `find . -name "findme" -type f | wc -l`
+
+Output:
+
+```
+1
+```
