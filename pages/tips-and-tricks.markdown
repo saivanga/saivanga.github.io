@@ -4,10 +4,9 @@ title: Tips & Tricks
 permalink: /tips-and-tricks/
 ---
 
-- While using JavaScript to set a font family, if your font incldes a number then, make sure to add quotation marks (" ").
+- While using JavaScript to set a font family, if your font incldes a number, then make sure to add quotation marks (" ").
 
-- To find out the details of your operating system use this command:
-  $ cat /etc/os-release
+- To find out the details of your operating system use this command: `cat /etc/os-release`
 
 Example output from my Ubuntu machine
 
@@ -27,7 +26,7 @@ UBUNTU_CODENAME=hirsute
 ```
 
 - To figure out the architecture of your computer, use this command:
-  uname -a
+  `uname -a`
 
 Example
 
@@ -35,7 +34,7 @@ Example
 Linux sala 5.11.0-25-generic #27-Ubuntu SMP Fri Jul 9 23:06:29 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
-- To get the SHORTER version of the architechure of your computer, use THIS command: uname -i.
+- To get the SHORTER version of the architechure of your computer, use THIS command: `uname -i`.
 
 ```
 uname -i
@@ -44,8 +43,12 @@ Example
 x86_64
 ```
 
-- To run docker, use this command: sudo docker run --rm -it <image-name> bash.
+- To run docker, use this command: `sudo docker run --rm -it <image-name> bash`.
 
-- To find a file inside the current directory: find . -name "<file-name>".
+- To find a file inside the current directory: `find . -name "<file-name>"`.
 
 - To make your system power off after 5 minutes of inactivity, in Linux, go to Settings >Power > and then change blank screen to 5 minutes.
+
+- To find all folders with specific name in current directory use: `find . -name "<folder-name>" -type d`
+
+- To find all files with specific name in current directory use: `find . -name "<file-name>" -type f`
