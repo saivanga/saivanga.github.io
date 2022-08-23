@@ -20,7 +20,7 @@ Output:
 1
 ```
 
-Description: 
+Description:
 
 - `find` to find file named findme
 - `wc -l` to count
