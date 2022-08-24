@@ -6,7 +6,7 @@ permalink: /education/
 
 | Teacher                  | Grade       | Year      | School                                                                                                                |
 | ------------------------ | ----------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-|            ?             | 6th grade   | 2022-2023 | [Maple Valley Middle School](https://mapleviewtahomasd.ss19.sharpschool.com/){:target="\_blank" rel="noopener"}       |
+|          ???             | 6th grade   | 2022-2023 | [Maple Valley Middle School](https://mapleviewtahomasd.ss19.sharpschool.com/){:target="\_blank" rel="noopener"}       |
 | ------------------------ | ----------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | Mr.Behrens               | 5th grade   | 2021-2022 | [Glacier Park Elementary School](https://glacierparktahomasd.ss19.sharpschool.com/){:target="\_blank" rel="noopener"} |
 | ------------------------ | ----------- | --------- | -----------------------------------------------------------------------------------------------------                 |

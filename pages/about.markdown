@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Sai Vanga . I'm 11 years old. I go to Louisa May Alcott Elementary. I have an younger sister named Lasya Vanga. She is 10 years old. Don't forget to visit my sister's website [Lasya.net](https://Lasya.Net)
+Hi, my name is Sai Vanga . I'm 11 years old. I go to Maple View Middle School. I have an younger sister named Lasya Vanga. She is 10 years old. Don't forget to visit my sister's website [Lasya.net](https://Lasya.Net)
 
 - Me!
 
